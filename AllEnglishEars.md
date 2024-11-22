@@ -30,8 +30,8 @@
 
 ### jump from:
 
-- **When we are still jumping off something, but it's more about what you're jumping onto. You're jumping off something onto something. It's talking about moving to something from something. (修正：humping 改為 jumping；moveing 改為 moving)**
-- **Talking about the height. It still focuses on the destination. (修正：語意更流暢)**
+- **When we are still jumping off something, but it's more about what you're jumping onto. You're jumping off something onto something. It's talking about moving to something from something.**
+- **Talking about the height. It still focuses on the destination.**
 
 > #### example:
 
