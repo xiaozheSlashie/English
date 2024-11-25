@@ -80,17 +80,17 @@
 
 > 用於強調前述句子的內容，增加額外資訊或補充說明，讓語意更加深刻或具體。
 
-1. There aren't many coffee shops around here, or any good ones at that.
-   （這附近咖啡店不多，更不用說有好咖啡店了。）
-   → 強調沒有好咖啡店這一點。
+1. There aren't many coffee shops around here, or any good ones at that.<br>
+   （這附近咖啡店不多，更不用說有好咖啡店了。）<br>
+   → 強調沒有好咖啡店這一點。<br>
 
-2. He bought her a beautiful engagement ring, a very expensive one at that.
-   （他給她買了一枚漂亮的訂婚戒指，而且還非常昂貴。）
-   → 補充說明訂婚戒指的價格特別高。
+2. He bought her a beautiful engagement ring, a very expensive one at that.<br>
+   （他給她買了一枚漂亮的訂婚戒指，而且還非常昂貴。）<br>
+   → 補充說明訂婚戒指的價格特別高。<br>
 
-3. She exercises every day, and with very heavy weights to that.
-   （她每天鍛煉，還使用非常重的啞鈴。）
-   → 強調她鍛煉的程度不只是頻繁，還非常費力。
+3. She exercises every day, and with very heavy weights to that.<br>
+   （她每天鍛煉，還使用非常重的啞鈴。）<br>
+   → 強調她鍛煉的程度不只是頻繁，還非常費力。<br>
 
 **用途說明:**
 
@@ -103,7 +103,7 @@
 
 1. It's a great hotel, and furthermore, the rooms are beautiful.
 
-（這是一家很棒的酒店，而且房間也非常漂亮。）
+（這是一家很棒的酒店，而且房間也非常漂亮。）<br>
 → 進一步補充說明酒店的好處，不僅棒，房間也有加分點。
 
 **用途說明:**
@@ -117,7 +117,7 @@
 
 1. There aren't many coffee shops around here, at least not any good ones.
 
-（這附近咖啡店不多，至少沒有好的咖啡店。）
+（這附近咖啡店不多，至少沒有好的咖啡店。）<br>
 → 用「at least」緩和語氣，但依然強調咖啡店的不足之處。
 
 **用途說明:**
