@@ -3,6 +3,7 @@
 - [Jump From B2 to C1 With These Phrasal Verbs](#Jump-From-B2-to-C1-With-These-Phrasal-Verbs)
   - [片語學習](#片語學習)
   - [role play](#role-play)
+- [Context Is Connection! How to Add On to Your Statements in English](#Context-Is-Connection-How-to-Add-On-to-Your-Statements-in-English)
 
 # [Jump From B2 to C1 With These Phrasal Verbs](https://www.youtube.com/watch?v=GetMjyXeW6Y)
 
@@ -71,3 +72,80 @@
 > B: 哦～他曾經從我們的衣櫃上跳下來，那大約有 10 英尺高！<br>
 > A: 哇哦！<br>
 > B: 我敢打賭，如果他被困在屋頂上，他也會跳下來的。<br>
+
+# [Context Is Connection! How to Add On to Your Statements in English](https://www.youtube.com/watch?v=ZqBPXRsgdRk)
+
+## 本單元學習重點
+
+### 在後面加 at that/to that
+
+> 用於強調前述句子的內容，增加額外資訊或補充說明，讓語意更加深刻或具體。
+
+1. There aren't many coffee shops around here, or any good ones at that.
+   （這附近咖啡店不多，更不用說有好咖啡店了。）
+   → 強調沒有好咖啡店這一點。
+
+2. He bought her a beautiful engagement ring, a very expensive one at that.
+   （他給她買了一枚漂亮的訂婚戒指，而且還非常昂貴。）
+   → 補充說明訂婚戒指的價格特別高。
+
+3. She exercises every day, and with very heavy weights to that.
+   （她每天鍛煉，還使用非常重的啞鈴。）
+   → 強調她鍛煉的程度不只是頻繁，還非常費力。
+
+**用途說明:**
+
+- 用於補充或加深對原句的描述。
+- 可以用於強調一個額外的重要點，或作為補充觀點的方式。
+
+## 在後面加 furthermore
+
+> 用於正式語境中，連接另一個額外且相關的資訊，通常用於書面或演講中。
+
+1. It's a great hotel, and furthermore, the rooms are beautiful.
+
+（這是一家很棒的酒店，而且房間也非常漂亮。）
+→ 進一步補充說明酒店的好處，不僅棒，房間也有加分點。
+
+**用途說明:**
+
+- 適合用於需要列舉額外優點的情境。
+- 使語句更加正式，適合演講、導覽等場合。
+
+## 在後面加 at least （用於否定或緩和語氣）
+
+> 用於表達「至少」的語意，通常用於補充之前說法中的不足或否定。
+
+1. There aren't many coffee shops around here, at least not any good ones.
+
+（這附近咖啡店不多，至少沒有好的咖啡店。）
+→ 用「at least」緩和語氣，但依然強調咖啡店的不足之處。
+
+**用途說明:**
+
+- 用於緩和語氣的否定句中，讓語氣顯得更委婉。
+- 可以表達「最少、至少」的語意，突出不足的重點。
+
+## role play:
+
+## role play:
+
+> A: Where's the best place to shop around here?<br>
+> B: Oh! We have great shopping, and affordable shopping at that. Definitely check out Blue Jay Street.<br>
+> A: I will. I need some new clothes, and furthermore, I don't have any sweaters yet for the winter.<br>
+> B: Oh, okay. Get on that.<br>
+> A: What about the best brunch place?<br>
+> B: Hmm... We have good brunch spots, with the best eggs too.<br>
+> A: Awesome. I didn't have many brunch spots in my old neighborhood, not any good ones at least.<br>
+> B: I know! That's why I'm so happy you moved here. Oh, and for your friendship, I might add.
+
+### 中文
+
+> A: 這附近哪裡是最好的購物地點？<br>
+> B: 哦！我們有很棒的購物地點，而且價格也很實惠。一定要去看看 Blue Jay 街。<br>
+> A:好，我會的。我需要一些新衣服，而且我還沒有冬天用的毛衣呢。<br>
+> B: 哦，好，快去準備吧。<br>
+> A: 那最好的早午餐地點呢？<br>
+> B: 嗯……我們有很棒的早午餐地點，而且有最棒的雞蛋料理。<br>
+> A: 太棒了。我以前住的地方沒有很多早午餐的選擇，至少沒有好的。<br>
+> B: 我知道！所以我很開心你搬來了。哦，還有，我想加一句：為了我們的友誼。
