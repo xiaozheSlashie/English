@@ -205,7 +205,7 @@
 > **A**: I want to try all these rides.  
 > **B**: I actually need to avoid the zipper if I want to not get sick.  
 > **A**: No worries. I'll try not to be too sad about missing that one.  
-> **B**: I have to leave at 9 in order to not run out of time. We should jump in one of these lines right away.  
+> **B**: I have to leave at 9. In order to not run out of time, we should jump in one of these lines right away.  
 > **A**: Sounds good.
 
 ---
