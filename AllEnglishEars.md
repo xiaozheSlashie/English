@@ -6,6 +6,10 @@
 
 - [Do NOT Miss These English Grammar Tips](#Do-NOT-Miss-These-English-Grammar-Tips)
 
+- [How to Quote Famous Animated Movies in English](#How-to-Quote-Famous-Animated-Movies-in-English)
+
+---
+
 # [Jump From B2 to C1 With These Phrasal Verbs](https://www.youtube.com/watch?v=GetMjyXeW6Y)
 
 > 介係詞本身無法看出意思，必須結合片語和上下文才看得出意思
@@ -73,6 +77,8 @@
 > B: 哦～他曾經從我們的衣櫃上跳下來，那大約有 10 英尺高！<br>
 > A: 哇哦！<br>
 > B: 我敢打賭，如果他被困在屋頂上，他也會跳下來的。<br>
+
+---
 
 # [Context Is Connection! How to Add On to Your Statements in English](https://www.youtube.com/watch?v=ZqBPXRsgdRk)
 
@@ -157,9 +163,9 @@
 > A: 太棒了。我以前住的地方沒有很多早午餐的選擇，至少沒有好的。<br>
 > B: 我知道！所以我很開心你搬來了。哦，還有，我想加一句：為了我們的友誼。
 
-# [Do NOT Miss These English Grammar Tips](https://www.youtube.com/watch?v=hfUqSzUG10U)
-
 ---
+
+# [Do NOT Miss These English Grammar Tips](https://www.youtube.com/watch?v=hfUqSzUG10U)
 
 ## 本單元學習重點: **not 要放哪邊？**
 
@@ -208,8 +214,6 @@
 > **B**: I have to leave at 9. In order to not run out of time, we should jump in one of these lines right away.  
 > **A**: Sounds good.
 
----
-
 ### 中文翻譯
 
 **A**: 我想要試試看所有這些遊樂設施。  
@@ -218,10 +222,12 @@
 **B**: 我得在 9 點前離開，這樣才不會時間不夠。我們應該馬上排進其中一條隊伍。  
 **A**: 聽起來不錯。
 
----
-
 ### 整理重點
 
 1. **in order not to** 為常規用法，保持連接詞完整。
 2. **to not** 用於強調語氣，但相對不如 **not to** 常見。
 3. **subordinating conjunctions** 要保持整體性，不能拆分使用。
+
+---
+
+# [How to Quote Famous Animated Movies in English](https://www.youtube.com/watch?v=2jrWjqs04cA&t=1s)
