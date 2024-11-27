@@ -176,9 +176,7 @@
 
 - 與不定式動詞搭配使用，表達行為的目的。
 
----
-
-### 範例
+#### 範例
 
 1. **正確**: _In order to finish in time, we need to meet this week._  
    （為了按時完成，我們在這周末見面。）
@@ -189,24 +187,18 @@
 3. **正確**: _We already made plans in order to get everything scheduled early._  
    （我們已經制定了計劃，為了讓一切提前安排好。）
 
----
-
 ### Splitting Infinitives (拆分不定式)
 
 - **not to + 動詞**: 常見且正式用法
 - **to not + 動詞**: 用於強調語氣
 
----
-
-### 範例
+#### 範例
 
 1. **常見用法**: _Try not to miss any episodes of the podcast._  
    （試著不要錯過任何一期播客。）
 
 2. **強調語氣**: _Try to not miss any episodes of the podcast._  
    （試著千萬不要錯過任何一期播客。）
-
----
 
 ## Role Play
 
