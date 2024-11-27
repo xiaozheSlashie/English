@@ -180,11 +180,11 @@
 
 ### 範例
 
-1. **正確**: _In order to finish in time, we need to meet this deadline._  
-   （為了按時完成，我們需要達到這個期限。）
+1. **正確**: _In order to finish in time, we need to meet this week._  
+   （為了按時完成，我們在這周末見面。）
 
-2. **較少見**: _In order to not finish late, we need to meet this deadline._  
-   （為了避免完成得太晚，我們需要達到這個期限。）
+2. **較少見**: _In order to not finish late, we need to meet this week._  
+   （為了避免完成得太晚，我們在這周末見面。）
 
 3. **正確**: _We already made plans in order to get everything scheduled early._  
    （我們已經制定了計劃，為了讓一切提前安排好。）
