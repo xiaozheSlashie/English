@@ -4,6 +4,8 @@
 
 - [Context Is Connection! How to Add On to Your Statements in English](#Context-Is-Connection-How-to-Add-On-to-Your-Statements-in-English)
 
+- [Do NOT Miss These English Grammar Tips](#Do-NOT-Miss-These-English-Grammar-Tips)
+
 # [Jump From B2 to C1 With These Phrasal Verbs](https://www.youtube.com/watch?v=GetMjyXeW6Y)
 
 > 介係詞本身無法看出意思，必須結合片語和上下文才看得出意思
@@ -97,7 +99,7 @@
 - 用於補充或加深對原句的描述。
 - 可以用於強調一個額外的重要點，或作為補充觀點的方式。
 
-## 在後面加 furthermore
+### 在後面加 furthermore
 
 > 用於正式語境中，連接另一個額外且相關的資訊，通常用於書面或演講中。
 
@@ -111,7 +113,7 @@
 - 適合用於需要列舉額外優點的情境。
 - 使語句更加正式，適合演講、導覽等場合。
 
-## 在後面加 at least （用於否定或緩和語氣）
+### 在後面加 at least （用於否定或緩和語氣）
 
 > 用於表達「至少」的語意，通常用於補充之前說法中的不足或否定。
 
@@ -154,3 +156,80 @@
 > B: 嗯……我們有很棒的早午餐地點，而且有最棒的雞蛋料理。<br>
 > A: 太棒了。我以前住的地方沒有很多早午餐的選擇，至少沒有好的。<br>
 > B: 我知道！所以我很開心你搬來了。哦，還有，我想加一句：為了我們的友誼。
+
+# [Do NOT Miss These English Grammar Tips](https://www.youtube.com/watch?v=hfUqSzUG10U)
+
+---
+
+## 本單元學習重點: **not 要放哪邊？**
+
+### `in order not to` or `in order to not`？
+
+#### 答案: **in order not to**
+
+### subordinating conjunctions (從屬連接詞)
+
+- 這些是由多個字組成的連接詞，**必須保持為一個整體**，例如: **in order to**  
+  （不能拆開，需合在一起使用）
+
+### **in order to**
+
+- 與不定式動詞搭配使用，表達行為的目的。
+
+---
+
+### 範例
+
+1. **正確**: _In order to finish in time, we need to meet this deadline._  
+   （為了按時完成，我們需要達到這個期限。）
+
+2. **較少見**: _In order to not finish late, we need to meet this deadline._  
+   （為了避免完成得太晚，我們需要達到這個期限。）
+
+3. **正確**: _We already made plans in order to get everything scheduled early._  
+   （我們已經制定了計劃，為了讓一切提前安排好。）
+
+---
+
+### Splitting Infinitives (拆分不定式)
+
+- **not to + 動詞**: 常見且正式用法
+- **to not + 動詞**: 用於強調語氣
+
+---
+
+### 範例
+
+1. **常見用法**: _Try not to miss any episodes of the podcast._  
+   （試著不要錯過任何一期播客。）
+
+2. **強調語氣**: _Try to not miss any episodes of the podcast._  
+   （試著千萬不要錯過任何一期播客。）
+
+---
+
+## Role Play
+
+> **A**: I want to try all these rides.  
+> **B**: I actually need to avoid the zipper if I want to not get sick.  
+> **A**: No worries. I'll try not to be too sad about missing that one.  
+> **B**: I have to leave at 9 in order to not run out of time. We should jump in one of these lines right away.  
+> **A**: Sounds good.
+
+---
+
+### 中文翻譯
+
+**A**: 我想要試試看所有這些遊樂設施。  
+**B**: 我其實需要避開「拉鍊」，不然我會不舒服。  
+**A**: 沒問題。我會盡量不因為錯過那個而太難過。  
+**B**: 我得在 9 點前離開，這樣才不會時間不夠。我們應該馬上排進其中一條隊伍。  
+**A**: 聽起來不錯。
+
+---
+
+### 整理重點
+
+1. **in order not to** 為常規用法，保持連接詞完整。
+2. **to not** 用於強調語氣，但相對不如 **not to** 常見。
+3. **subordinating conjunctions** 要保持整體性，不能拆分使用。
