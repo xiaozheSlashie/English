@@ -6,7 +6,7 @@
 
 - [Do NOT Miss These English Grammar Tips](#Do-NOT-Miss-These-English-Grammar-Tips)
 
-- [How to Quote Famous Animated Movies in English](#How-to-Quote-Famous-Animated-Movies-in-English)
+- [Them’s the Brakes! When to Throw Out Grammar Rules](#Thems-the-Brakes-When-to-Throw-Out-Grammar-Rules)
 
 ---
 
@@ -230,4 +230,62 @@
 
 ---
 
-# [How to Quote Famous Animated Movies in English](https://www.youtube.com/watch?v=2jrWjqs04cA&t=1s)
+# [Them’s the Brakes! When to Throw Out Grammar Rules](https://www.youtube.com/watch?v=4N7TUEo7sUU)
+
+## 本單元學習重點: **Why and when people use 'them' before nouns**
+
+1. 有時這是某些美國和英國特定地區的方言中的有意語法錯誤。
+2. 存在一些俗語，這些俗語使得這種用法變得像是固定搭配，即使你不是在語言中故意使用語法錯誤。
+
+### 示例：
+
+- **Them’s the breaks**:
+
+  > 一切都不順利，但我猜這就是現實了（命運使然）。
+
+- **Them’s the rules**:
+
+  > 這就是規則，你必須這麼做。
+
+- **How you like them apples?**:
+  > 這通常帶有諷刺或不公平的意味，表示「這下你怎麼看？」
+
+---
+
+## Role Play
+
+### 1. Number One
+
+> **A**: I didn’t study for the exam at all and I got a 95.  
+> **B**: What!? I studied for weeks and got a 75. How you like them apples?
+
+#### 中文翻譯：
+
+**A**: 我根本沒為考試準備，結果考了 95 分。  
+**B**: 什麼！？我為了準備考試學了好幾個星期，結果才 75 分。這下你怎麼看待這個情況呢？（"How you like them apples?"）
+
+---
+
+### 2. Number Two
+
+> **A**: Oh! Sorry, we’re closed.  
+> **B**: Oh~ you close at 5? Well, them’s the breaks, I should have gotten here earlier.  
+> **A**: We used to stay open later, but we didn’t get enough business to justify it.  
+> **B**: I almost came this afternoon but I was sure you’d be open until 5. Oh~ Is there any way you could keep it open for a few minutes?  
+> **A**: Sorry! I’m not like them’s the rules.
+
+#### 中文翻譯：
+
+**A**: 哦！抱歉，我們今天關門了。  
+**B**: 哦~你們是五點關門嗎？那真是命運使然（"them’s the breaks"），我應該早點來的。  
+**A**: 我們以前會開得晚一些，但生意不好，所以沒辦法繼續這樣。  
+**B**: 我差點今天下午就來了，但我還以為你們會開到 5 點。哦~有沒有可能再開個幾分鐘？  
+**A**: 抱歉！這就是規定（"them’s the rules"）。
+
+---
+
+### 解釋：
+
+- **"Them’s the breaks"** 和 **"How you like them apples?"** 都是語言中的俚語或常用表達，通常帶有一點不公平或諷刺的情感，表示「這就是現實」、「這就是命運」的意思。
+
+- 在這些表達中，**"them"** 代替了**"those"**，這是某些地區方言的語法錯誤或口語化的方式，並不遵循標準語法。
