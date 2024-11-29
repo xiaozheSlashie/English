@@ -317,8 +317,8 @@
 
 > **A**: Are we in the Twilight Zone? This place is totally empty and it's usually so packed this time of day.  
 > **B**: You're right. It's weird. Maybe there's a big game on or something is the World Series this week.  
-> **A**: Oh,yep. That's propably it.Sorry I'm late by the way I was moving at warp speed trying to get ready in time but I still couldn't get out of the door.  
-> **B**: No worries. Hey look Marcy is subbing we're toast.  
+> **A**: Oh,yep. That's propably it. Sorry I'm late by the way I was moving at warp speed trying to get ready in time but I still couldn't get out of the door.  
+> **B**: No worries. Hey look Marcy is subbing. We're toast.  
 > **A**: Oh,you're right. Her workouts are the most intense last time she subbed I was sore for a week.
 
 #### 中文翻譯：
