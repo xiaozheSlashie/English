@@ -8,6 +8,8 @@
 
 - [Them’s the Brakes! When to Throw Out Grammar Rules](#Thems-the-Brakes-When-to-Throw-Out-Grammar-Rules)
 
+- [How to Learn English Slang at Warp Speed](#How-to-Learn-English-Slang-at-Warp-Speed)
+
 ---
 
 # [Jump From B2 to C1 With These Phrasal Verbs](https://www.youtube.com/watch?v=GetMjyXeW6Y)
@@ -289,3 +291,40 @@
 - **"Them’s the breaks"** 和 **"How you like them apples?"** 都是語言中的俚語或常用表達，通常帶有一點不公平或諷刺的情感，表示「這就是現實」、「這就是命運」的意思。
 
 - 在這些表達中，**"them"** 代替了**"those"**，這是某些地區方言的語法錯誤或口語化的方式，並不遵循標準語法。
+
+---
+
+# How to Learn English Slang at Warp Speed(https://www.youtube.com/watch?v=kaV3sw_Cs_w)
+
+## 本單元學習重點: **how you can remember the meaning behind slang words**
+
+1. warp speed:原本指非常快的速度。
+
+> You need to move at warp speed if we are going to finish in time.
+> (你得以極快的速度行動，如果我們要按時完成的話。)
+
+2. twilight zone: 有時形容某些事物讓人感到詭異、奇怪或意外。
+
+> This the Twilight Zone I do not understand why she did that.
+> ( 這裡像是進入了《暮光區》，我完全不理解她為什麼會那麼做。)
+
+3. toast: 指處於困境中或某事已經完蛋。
+
+> I think I'm toast. I'll never get this done on time.
+> (我覺得我完了，我根本不可能準時完成這個。)
+
+## Role Play
+
+> **A**: Are we in the Twilight Zone? This place is totally empty and it's usually so packed this time of day.
+> **B**: You're right. It's weird. Maybe there's a big game on or something is the World Series this week.
+> **A**: Oh,yep. That's propably it.Sorry I'm late by the way I was moving at warp speed trying to get ready in time but I still couldn't get out of the door.
+> **B**: No worries. Hey look Marcy is subbing we're toast.
+> **A**: Oh,you're right. Her workouts are the most intense last time she subbed I was sore for a week.
+
+#### 中文翻譯：
+
+> **A**: 我們現在是在《暮光區》嗎？這地方完全沒人，通常這個時候應該是滿滿的人。  
+> **B**: 你說得對，真的很奇怪。也許是有大賽正在進行，這周是世界大賽吧。  
+> **A**: 喔，對，可能就是這樣。對了，我遲到了，抱歉，我趕著準備，結果還是來不及出門。  
+> **B**: 沒關係。喔，看，瑪西來代課了，我們完蛋了。  
+> **A**: 哎，對，沒錯。她的課最辛苦了，上次她代課後我痛了一個禮拜。
