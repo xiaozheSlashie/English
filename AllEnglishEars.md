@@ -290,7 +290,7 @@
 
 ---
 
-# How to Learn English Slang at Warp Speed(https://www.youtube.com/watch?v=kaV3sw_Cs_w)
+# [How to Learn English Slang at Warp Speed](https://www.youtube.com/watch?v=kaV3sw_Cs_w)
 
 ## 本單元學習重點: **how you can remember the meaning behind slang words**
 
