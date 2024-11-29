@@ -298,7 +298,7 @@
 
 ## 本單元學習重點: **how you can remember the meaning behind slang words**
 
-1. warp speed:原本指非常快的速度。
+1. warp speed: 指非常快的速度。
 
 > You need to move at warp speed if we are going to finish in time.
 > (你得以極快的速度行動，如果我們要按時完成的話。)
