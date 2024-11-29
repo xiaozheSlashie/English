@@ -319,7 +319,7 @@
 > **B**: You're right. It's weird. Maybe there's a big game on or something is the World Series this week.  
 > **A**: Oh,yep. That's propably it. Sorry I'm late by the way I was moving at warp speed trying to get ready in time but I still couldn't get out of the door.  
 > **B**: No worries. Hey look Marcy is subbing. We're toast.  
-> **A**: Oh,you're right. Her workouts are the most intense last time she subbed I was sore for a week.
+> **A**: Oh, you're right. Her workouts are the most intense. Last time she subbed I was sore for a week.
 
 #### 中文翻譯：
 
@@ -327,4 +327,4 @@
 > **B**: 你說得對，真的很奇怪。也許是有大賽正在進行，這周是世界大賽吧。  
 > **A**: 喔，對，可能就是這樣。對了，我遲到了，抱歉，我趕著準備，結果還是來不及出門。  
 > **B**: 沒關係。喔，看，瑪西來代課了，我們完蛋了。  
-> **A**: 哎，對，沒錯。她的課最辛苦了，上次她代課後我痛了一個禮拜。
+> **A**: 哎，對，沒錯。她的健身課最辛苦了，上次她代課後我痛了一個禮拜。
