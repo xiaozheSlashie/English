@@ -340,8 +340,6 @@
   - The kids were packed like sardines in the classroom.  
     **中文翻譯**: 孩子們在教室裡擠得像沙丁魚一樣。
 
----
-
 ### 2. **bring home the bacon**
 
 - **意思**: 賺錢或在經濟上成功。
@@ -360,8 +358,6 @@
 > **A**: Hey! How's the job hunt going?  
 > **B**: Not bad. I'm enjoying a few weeks off actually it's kind of nice not having to bring home the bacon.  
 > **A**: I can imagine I could use a vacation.
-
----
 
 ### 中文翻譯
 
