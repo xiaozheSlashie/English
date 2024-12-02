@@ -327,6 +327,8 @@
 > **B**: 沒關係。喔，看，瑪西來代課了，我們完蛋了。  
 > **A**: 哎，對，沒錯。她的健身課最辛苦了，上次她代課後我痛了一個禮拜。
 
+---
+
 # [Pack Your English With Idioms](https://www.youtube.com/watch?v=MiDS1fTBhe4)
 
 ## 本單元學習重點: **To know idioms exactly meaning**
@@ -352,7 +354,7 @@
 ### Role Play
 
 > **A**: Wow! We're packed like sardines in here.  
-> **B**: Yeah! These tables do seem very close together I have to be careful not to bump the lady behind me.  
+> **B**: Yeah! These tables do seem very close together. I have to be careful not to bump the lady behind me.  
 > **A**: I understand them wanting to fit more people in but a little breathing room would be nice.  
 > **B**: Yeah. Seriously.  
 > **A**: Hey! How's the job hunt going?  
@@ -368,3 +370,5 @@
 > **A**: 嘿！你的求職進展如何？  
 > **B**: 還不錯。我其實享受了幾周的休息，不用賺錢養家還挺不錯的。  
 > **A**: 我能想像得到，我也需要一個假期啊。
+
+---
