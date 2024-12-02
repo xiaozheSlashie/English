@@ -10,6 +10,8 @@
 
 - [How to Learn English Slang at Warp Speed](#How-to-Learn-English-Slang-at-Warp-Speed)
 
+- [Pack Your English With Idioms](#Pack-Your-English-With-Idioms)
+
 ---
 
 # [Jump From B2 to C1 With These Phrasal Verbs](https://www.youtube.com/watch?v=GetMjyXeW6Y)
@@ -324,3 +326,49 @@
 > **A**: 喔，對，可能就是這樣。對了，我遲到了，抱歉，我趕著準備，結果還是來不及出門。  
 > **B**: 沒關係。喔，看，瑪西來代課了，我們完蛋了。  
 > **A**: 哎，對，沒錯。她的健身課最辛苦了，上次她代課後我痛了一個禮拜。
+
+# [Pack Your English With Idioms](https://www.youtube.com/watch?v=MiDS1fTBhe4)
+
+## 本單元學習重點: **To know idioms exactly meaning**
+
+### 1. **packed like sardines**
+
+- **意思**: 形容非常擁擠，人被擠得緊緊的。通常用於交通或其他空間非常擁擠的情況。
+- **例句**:
+  - We're packed like sardines in here. I can barely breathe.  
+    **中文翻譯**: 我們這裡擠得像沙丁魚一樣，我幾乎不能呼吸了。
+  - The kids were packed like sardines in the classroom.  
+    **中文翻譯**: 孩子們在教室裡擠得像沙丁魚一樣。
+
+---
+
+### 2. **bring home the bacon**
+
+- **意思**: 賺錢或在經濟上成功。
+- **例句**:
+  - Gender roles seem to be shifting and anyone could bring home the bacon for a family nowadays.  
+    **中文翻譯**: 性別角色似乎在轉變，現在任何人都可以為家庭賺錢養家。
+  - My dad was the one who would bring home the bacon.  
+    **中文翻譯**: 我爸爸以前是那個賺錢養家的人。
+
+### Role Play
+
+> **A**: Wow! We're packed like sardines in here.  
+> **B**: Yeah! These tables do seem very close together I have to be careful not to bump the lady behind me.  
+> **A**: I understand them wanting to fit more people in but a little breathing room would be nice.  
+> **B**: Yeah. Seriously.  
+> **A**: Hey! How's the job hunt going?  
+> **B**: Not bad. I'm enjoying a few weeks off actually it's kind of nice not having to bring home the bacon.  
+> **A**: I can imagine I could use a vacation.
+
+---
+
+### 中文翻譯
+
+> **A**: 哇！我們這裡擠得像沙丁魚一樣。  
+> **B**: 是啊！這些桌子確實擺得很近，我得小心不要撞到我後面的那位女士。  
+> **A**: 我理解他們想多容納些人，但稍微留點呼吸空間會更好。  
+> **B**: 對，真的。  
+> **A**: 嘿！你的求職進展如何？  
+> **B**: 還不錯。我其實享受了幾周的休息，不用賺錢養家還挺不錯的。  
+> **A**: 我能想像得到，我也需要一個假期啊。
