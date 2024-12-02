@@ -336,18 +336,18 @@
 - **意思**: 形容非常擁擠，人被擠得緊緊的。通常用於交通或其他空間非常擁擠的情況。
 - **例句**:
   - We're packed like sardines in here. I can barely breathe.  
-    **中文翻譯**: 我們這裡擠得像沙丁魚一樣，我幾乎不能呼吸了。
+    (我們這裡擠得像沙丁魚一樣，我幾乎不能呼吸了。)
   - The kids were packed like sardines in the classroom.  
-    **中文翻譯**: 孩子們在教室裡擠得像沙丁魚一樣。
+    (孩子們在教室裡擠得像沙丁魚一樣。)
 
 ### 2. **bring home the bacon**
 
 - **意思**: 賺錢或在經濟上成功。
 - **例句**:
   - Gender roles seem to be shifting and anyone could bring home the bacon for a family nowadays.  
-    **中文翻譯**: 性別角色似乎在轉變，現在任何人都可以為家庭賺錢養家。
+    (性別角色似乎在轉變，現在任何人都可以為家庭賺錢養家。)
   - My dad was the one who would bring home the bacon.  
-    **中文翻譯**: 我爸爸以前是那個賺錢養家的人。
+    (我爸爸以前是那個賺錢養家的人。)
 
 ### Role Play
 
