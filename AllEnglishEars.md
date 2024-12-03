@@ -387,9 +387,9 @@
 ## Role Play
 
 > **A**: It was a lot of fun but we went to school with some mean people.  
-> **B**: Oh! I remeber Jerry used to mock all the teachers. It was funny sometimes but not that nice.  
+> **B**: Oh! I remeber Jerry used to mock all the teachers. It was funny sometimes but not that nice.
 > **A**: Yeah. It was pretty rude when he would imitate everything Miss Smith said.
-> **B**: Definitely.Remember when April got mad at Leah for copying her outfit?  
+> **B**: Definitely.Remember when April got mad at Leah for copying her outfit?
 > **A**: Of course! She didn't seem to think imitation was the highest from of flattery.
 
 ### 中文翻譯
