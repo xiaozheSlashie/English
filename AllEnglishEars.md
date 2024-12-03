@@ -351,7 +351,7 @@
   - My dad was the one who would bring home the bacon.  
     (我爸爸以前是那個賺錢養家的人。)
 
-### Role Play
+## Role Play
 
 > **A**: Wow! We're packed like sardines in here.  
 > **B**: Yeah! These tables do seem very close together. I have to be careful not to bump the lady behind me.  
@@ -377,11 +377,31 @@
 
 ## 本單元學習重點: **Mock Versus Mimic**
 
-|          | **Mock**                                                                                               | **Mimic**                                                                |
-| -------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| **中文** | 帶有一些嘲笑或挖苦意味的模仿                                                                           | 單純模仿某人的行為或動作                                                 |
-| **例句** | Sarah hated it when people mocked her voice. <br>莎拉討厭別人嘲笑她的聲音。                            | Her daughter mimicked her every move. <br>她的女兒模仿了她的每一個動作。 |
-| **相同** | Both refer to copying or trying to impersonate in some way. <br>兩者都指模仿或嘗試以某種方式模擬他人。 |
-| **不同** | Usually negative, involves ridicule. <br>通常語氣負面，帶有嘲笑意味。                                  | Neutral, focuses on imitation. <br>語氣中性，專注於模仿行為或動作。      |
+# Mock vs Mimic vs Copycat vs Parrot
 
-### Role Play
+# Mock vs Mimic vs Copycat vs Parrot vs Impersonate
+
+|          | **Mock**                                                                                 | **Mimic**                                                                | **Copycat**                                                                                  | **Parrot**                                                                                      | **Impersonate**                                                                                                          |
+| -------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **中文** | 帶有一些嘲笑或挖苦意味的模仿                                                             | 單純模仿某人的行為或動作                                                 | 模仿他人行為、想法或創意，通常有負面含義                                                     | 機械式重複他人話語或行為，缺乏理解或創意                                                        | 假冒或冒充某人，通常是為了欺騙或達到某種目的                                                                             |
+| **例句** | Sarah hated it when people mocked her voice. <br>莎拉討厭別人嘲笑她的聲音。              | Her daughter mimicked her every move. <br>她的女兒模仿了她的每一個動作。 | He's just a copycat who takes credit for others' ideas. <br>他只是個抄襲者，盜用別人的點子。 | Stop parroting everything I say and think for yourself! <br>不要只是重複我說的話，動動腦子吧！  | He tried to impersonate the CEO to get into the meeting. <br>他試圖冒充 CEO 進入會議。                                   |
+| **相同** | All involve copying or trying to imitate in some way. <br>四者皆涉及模仿或試圖模擬他人。 |
+| **不同** | Usually negative, involves ridicule. <br>通常語氣負面，帶有嘲笑意味。                    | Neutral, focuses on imitation. <br>語氣中性，專注於模仿行為或動作。      | Often implies unoriginality or plagiarism. <br>通常暗指缺乏創意或抄襲。                      | Lacks understanding or originality, focuses on repetition. <br>缺乏理解或創意，著重於重複他人。 | Involves pretending to be someone else, often for deceptive purposes. <br>涉及假裝成為他人，通常為了欺騙或達到某種目的。 |
+
+## Role Play
+
+> **A**: It was a lot of fun but we went to school with some mean people.  
+> **B**: Oh! I remeber Jerry used to mock all the teachers. It was funny sometimes but not that nice.  
+> **A**: Yeah. It was pretty rude when he would imitate everything Miss Smith said.
+> **B**: Definitely.Remember when April got mad at Leah for copying her outfit?  
+> **A**: Of course! She didn't seem to think imitation was the highest from of flattery.
+
+### 中文翻譯
+
+> **A**: 那很有趣，但我們學校有些人真的很刻薄。  
+> **B**: 哦！我記得杰瑞曾經嘲笑所有的老師。有時候很好笑，但也不是那麼好。  
+> **A**: 是啊，當他模仿史密斯小姐說的每一句話時，真的很無禮。  
+> **B**: 絕對是。還記得四月因為莉亞模仿她的穿著而生氣嗎？  
+> **A**: 當然記得！她似乎不認為模仿是最高形式的恭維。
+
+---
