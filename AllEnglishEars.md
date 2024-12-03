@@ -381,9 +381,13 @@
 
 # Mock vs Mimic
 
-| **Word**  | **Definition (英文)**                                                   | **中文解釋**                 | **Example (例句)**                                                         | **Similarity (相同處)**                                                                            | **Difference (不同處)**                                           |
-| --------- | ----------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| **Mock**  | It's a little bit more potentially mean-spirited about teasing someone. | 帶有一些嘲笑或挖苦意味的模仿 | Sarah hated it when people mocked her voice.<br>莎拉討厭別人嘲笑她的聲音。 | Both refer to copying or trying to impersonate in some way. 兩者都指模仿或嘗試以某種方式模擬他人。 | Usually negative, involves ridicule. 通常語氣負面，帶有嘲笑意味。 |
-| **Mimic** | It's really imitating someone.                                          | 單純模仿某人的行為或動作     | Her daughter mimicked her every move.<br>她的女兒模仿了她的每一個動作。    |                                                                                                    | Neutral, focuses on imitation. 語氣中性，專注於模仿行為或動作。   |
+# Mock vs Mimic
+
+|          | **Mock**                                                                                               | **Mimic**                                                                |
+| -------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| **中文** | 帶有一些嘲笑或挖苦意味的模仿                                                                           | 單純模仿某人的行為或動作                                                 |
+| **例句** | Sarah hated it when people mocked her voice. <br>莎拉討厭別人嘲笑她的聲音。                            | Her daughter mimicked her every move. <br>她的女兒模仿了她的每一個動作。 |
+| **相同** | Both refer to copying or trying to impersonate in some way. <br>兩者都指模仿或嘗試以某種方式模擬他人。 |
+| **不同** | Usually negative, involves ridicule. <br>通常語氣負面，帶有嘲笑意味。                                  | Neutral, focuses on imitation. <br>語氣中性，專注於模仿行為或動作。      |
 
 ### Role Play
