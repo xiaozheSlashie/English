@@ -14,6 +14,8 @@
 
 - [Mock Versus Mimic What's the Difference?](#Mock-Versus-Mimic-Whats-the-Difference)
 
+- [Who Asked You? Rude Phrases to Avoid in English](#Who-Asked-You-Rude-Phrases-to-Avoid-in-English)
+
 ---
 
 # [Jump From B2 to C1 With These Phrasal Verbs](https://www.youtube.com/watch?v=GetMjyXeW6Y)
@@ -399,5 +401,65 @@
 > **A**: 是啊，當他模仿史密斯小姐說的每一句話時，真的很無禮。  
 > **B**: 絕對是。還記得四月因為莉亞模仿她的穿著而生氣嗎？  
 > **A**: 當然記得！她似乎不認為模仿是最高形式的恭維。
+
+---
+
+# [Who Asked You? Rude Phrases to Avoid in English](https://www.youtube.com/watch?v=G3c3qZPTb-M)
+
+## 本單元學習重點: **三個英文中應避免使用的無禮用語**
+
+### 1. **Who asked you**
+
+表示某人提出了未被請求的意見或不該說話。
+
+**範例：**
+
+> **A**: I think you should break up with that guy.  
+> **B**: Who asked you!  
+> （A：我覺得你應該和那個人分手。  
+> B：誰問你了！）
+
+> **A**: I don't think you should take that job.  
+> **B**: Who asked you?  
+> （A：我覺得你不應該接受那份工作。  
+> B：誰問你了？）
+
+### 2. **Mind your business**
+
+表示叫對方不要多管閒事，意思是「這不關你的事」或「我不需要你的意見」。
+
+**範例：**
+
+> **A**: You really shouldn't text and drive you know.  
+> **B**: Mind your own business!  
+> （A：你知道的，開車時真的不應該發簡訊。  
+> B：管好你自己的事吧！）
+
+### 3. **Figure it out**
+
+用來告訴對方自己解決問題，不要來問。
+
+**範例：**
+
+> **A**: These instructions just don't make any sense.  
+> **B**: I don't know, figure it out.  
+> （A：這些說明完全看不懂啊。  
+> B：我不知道，你自己想辦法吧。）
+
+## Role Play
+
+> **A**: Did you just put in three sugar packets?  
+> **B**: Okay! Mind your business.  
+> **A**: Well. Sugar is just so bad for you.  
+> **B**: Who asked you! I like my sugar with coffee and cream. Thank you very much!  
+> **A**: I mean evey now and then is okay but every day you got to figure it out.
+
+### 中文翻譯
+
+> **A**：你剛剛放了三包糖嗎？  
+> **B**：好啦！少管閒事。  
+> **A**：糖對你真的很不好耶。  
+> **B**：誰問你了！我就是喜歡糖配咖啡和奶油，謝謝。  
+> **A**：我是說偶爾還可以，但你天天這樣，得想清楚一點吧。
 
 ---
