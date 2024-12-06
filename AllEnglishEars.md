@@ -16,6 +16,8 @@
 
 - [Who Asked You? Rude Phrases to Avoid in English](#Who-Asked-You-Rude-Phrases-to-Avoid-in-English)
 
+- [Learn This English Vocabulary to the Nth Degree](#Learn-This-English-Vocabulary-to-the-Nth-Degree)
+
 ---
 
 # [Jump From B2 to C1 With These Phrasal Verbs](https://www.youtube.com/watch?v=GetMjyXeW6Y)
@@ -461,5 +463,56 @@
 > **A**：糖對你真的很不好耶。  
 > **B**：誰問你了！我就是喜歡糖配咖啡和奶油，謝謝。  
 > **A**：我是說偶爾還可以，但你天天這樣，得想清楚一點吧。
+
+---
+
+# [Learn This English Vocabulary to the Nth Degree](https://www.youtube.com/watch?v=MgIzI_0q2R0)
+
+## 本單元學習重點: **nth**
+
+以下是更正後的內容，並新增中文翻譯：
+
+1. The nth time
+   This phrase refers to the most recent occurrence of something that has happened repeatedly over a long period. It strongly implies that the action has been repeated many times.
+   （第 N 次：表示某件事情已經重複發生多次，並強調最近一次發生。）
+
+Examples:
+
+> I have to replace the chain on my daughter's bike for the nth time.
+> （我得為我女兒的腳踏車換鏈條，這已經是第 N 次了。）
+
+> For the nth time, please stop leaving your dirty socks on the floor.
+> （拜託你別再把髒襪子丟在地上了，這已經是第 N 次了！）
+
+> This is the nth time I've burned dinner this month; I need to start setting timers.
+> （這是我這個月第 N 次燒焦晚餐了，我真的需要開始設置計時器了。）
+
+2. Nth degree
+   This phrase means doing something as much as possible or to an extreme level.
+   （第 N 度：指將某事做到極致或發揮到極限。）
+
+Examples:
+
+> I'm training to the nth degree for a marathon. I ran 25 miles today.
+> （我正在為馬拉松訓練到極限。今天跑了 25 英里。）
+
+> My friend customized his car to the nth degree—custom rims, vinyl wrapping, the works.
+> （我的朋友把他的車改裝到了極致，有專屬輪框、車身包膜，各種改裝一應俱全。）
+
+## Role Play
+
+> **A**: Wow! Jordan really customized his car to the nth degree.  
+> **B**: Yeah. I saw that it looks amazing. I think the put some kind of Turbo boosters on it too.  
+> **A**: That might not have been the best idea actually.  
+> **B**: Oh! No! What happened?  
+> **A**: He got a speeding ticket last night for the nth time.
+
+### 中文翻譯
+
+**A**: 哇！Jordan 真的把他的車改裝到極致了。  
+**B**: 是啊，我看到了，真的很驚人。我覺得他還裝了一些類似渦輪增壓器的東西。  
+**A**: 其實，那可能不算是個好主意。  
+**B**: 哦！不會吧！發生什麼事了？  
+**A**: 他昨晚又因為超速拿了一張罰單，這已經是第 N 次了。
 
 ---
