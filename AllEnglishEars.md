@@ -471,7 +471,9 @@
 ## 本單元學習重點: **nth**
 
 1. The nth time:
+
    This phrase refers to the most recent occurrence of something that has happened repeatedly over a long period. It strongly implies that the action has been repeated many times.
+
    （第 N 次：表示某件事情已經重複發生多次，並強調最近一次發生。）
 
 Examples:
@@ -486,7 +488,9 @@ Examples:
 > （這是我這個月第 N 次燒焦晚餐了，我真的需要開始設置計時器了。）
 
 2. Nth degree:
+
    This phrase means doing something as much as possible or to an extreme level.
+
    （第 N 度：指將某事做到極致或發揮到極限。）
 
 Examples:
