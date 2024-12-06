@@ -470,8 +470,6 @@
 
 ## 本單元學習重點: **nth**
 
-以下是更正後的內容，並新增中文翻譯：
-
 1. The nth time
    This phrase refers to the most recent occurrence of something that has happened repeatedly over a long period. It strongly implies that the action has been repeated many times.
    （第 N 次：表示某件事情已經重複發生多次，並強調最近一次發生。）
