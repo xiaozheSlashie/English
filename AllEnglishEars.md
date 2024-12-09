@@ -18,6 +18,8 @@
 
 - [Learn This English Vocabulary to the Nth Degree](#Learn-This-English-Vocabulary-to-the-Nth-Degree)
 
+- [Why You Should NOT Say "For Your Information"](#Why-You-Should-NOT-Say-For-Your-Information)
+
 ---
 
 # [Jump From B2 to C1 With These Phrasal Verbs](https://www.youtube.com/watch?v=GetMjyXeW6Y)
@@ -516,5 +518,52 @@ Examples:
 **A**: 其實，那可能不算是個好主意。  
 **B**: 哦！不會吧！發生什麼事了？  
 **A**: 他昨晚又因為超速拿了一張罰單，這已經是第 N 次了。
+
+---
+
+# [Why You Should NOT Say "For Your Information"](https://www.youtube.com/watch?v=p91PiTqWefI)
+
+## 本單元學習重點: **FYI 和 For Your Information 的差異**
+
+1. **For Your Information**
+
+- 感覺較為直接，語氣可能更正式或強硬一些。
+- 在某些情境下，可能帶有糾正他人的意味，可以是朋友間的玩笑話，也可能帶有一些生氣的情緒。
+- 大多數情況下，人們不會完整說出 "For Your Information"，而是傾向於縮寫成 FYI。
+
+**範例：**
+
+- **The car is out of gas, for your information.**  
+  （順帶一提，車子沒油了。）
+- **For your information, I was not the one who left the milk out.**  
+  （讓你知道，不是我把牛奶忘在外面的。）
+
+2. **FYI**
+
+- 感覺較為輕鬆、隨意，常用於書面或口頭交流。
+- 是 "For Your Information" 的縮寫，經常用在電郵或訊息中分享資訊，通常不期待立即的回應或行動。
+- 一般帶有一種「僅供參考」的語氣，適合用來簡單告知而非要求。
+
+**範例：**
+
+- **FYI, I’m running to the grocery store if you need anything.**  
+  （FYI，我要去超市了，如果你需要什麼可以告訴我。）
+- 使用 FYI 時，通常隱含對方不需要立即回應。
+
+## Role Play
+
+> **A**: For what it's worth. I'm really sorry about what happened.  
+> **B**: Oh, thanks. By the way I was mostly just surprised and I probably shouldn't have reacted the way I did.  
+> **A**: You had every right to be upset. I'm sorry about saying "For your information, I'm not the one who wrecked the car." That was uncalled for.  
+> **B**: I appreciate that. Just so you know, I found out later why you were upset and then I understood.  
+> **A**: I still shouldn't have taken it out on everyone, though. Thanks for understanding.
+
+### 中文翻譯
+
+> **A**: 說真的，我對發生的事情感到很抱歉。  
+> **B**: 噢，謝謝。其實我只是有點驚訝，可能不該那樣反應。  
+> **A**: 你有生氣的理由。我很抱歉說了「讓你知道，不是我把車弄壞的」，那句話實在不應該。  
+> **B**: 我很感激你的道歉。只是讓你知道，後來我了解了你為什麼會生氣，我也能明白了。  
+> **A**: 但我還是不該把氣出在大家身上。謝謝你的理解。
 
 ---
