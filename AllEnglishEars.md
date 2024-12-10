@@ -20,6 +20,8 @@
 
 - [Why You Should NOT Say "For Your Information"](#Why-You-Should-NOT-Say-For-Your-Information)
 
+- [Are You Close with Your Family?](#Are-You-Close-with-Your-Family)
+
 ---
 
 # [Jump From B2 to C1 With These Phrasal Verbs](https://www.youtube.com/watch?v=GetMjyXeW6Y)
@@ -565,5 +567,57 @@ Examples:
 > **A**: 你有生氣的理由。我很抱歉說了「讓你知道，不是我把車弄壞的」，那句話實在不應該。  
 > **B**: 我很感激你的道歉。只是讓你知道，後來我了解了你為什麼會生氣，我也能明白了。  
 > **A**: 但我還是不該把氣出在大家身上。謝謝你的理解。
+
+---
+
+# [Are You Close with Your Family?](https://www.youtube.com/watch?v=JKgqU2nVIMo)
+
+## 本單元學習重點: **tight-knit**
+
+**tight-knit**: 通常形容人際關係非常緊密，像是運動團隊那樣，通常用於形容像家人一樣親密的人群。
+
+> **I'm really tight-knit with my co-worker.**  
+> 我和我的同事關係非常親密。
+
+> **I come from a really tight-knit family, so it was important for me to find a partner who thinks family is the number one priority.**  
+> 我來自一個非常緊密的家庭，所以對我來說，找到一個把家庭放在第一位的伴侶非常重要。
+
+> **I live in a very tight-knit community. It's great because people are always there to help each other out.**  
+> 我住在一個非常緊密的社區，這很棒，因為人們總是互相幫助。
+
+## 延伸詞彙
+
+### 1. **neighborly**
+
+形容與鄰居的關係友善，或是指鄰里間的互動。
+
+> **Everyone I've met is extremely neighborly. I'm excited to be in this community.**  
+> 我遇到的每個人都非常友好，對於成為這個社區的一員，我感到很興奮。
+
+### 2. **inseparable**
+
+更為強烈的形容詞，意指彼此形影不離。
+
+> **My friends from school and I are inseparable. We are together all the time.**  
+> 我與學校的朋友形影不離，我們總是在一起。
+
+### 3. **loving**
+
+較具情感色彩，常用於形容家庭的愛與關懷，但不太適合用於鄰里間。
+
+> **She comes from a very loving family.**  
+> 她來自一個非常有愛的家庭。
+
+## Role Play
+
+> **A**: Well, I had an extremely tight-knit neighborhood growing up. The kids in the neighborhood were all inseparable.  
+> **B**: That must have been fun. My community was very neighborly but not necessarily that close, but my family was devoted.  
+> **A**: Same! My parents are very loving.
+
+### 中文翻譯
+
+> **A**: 我從小住在一個非常緊密的鄰里社區，社區裡的孩子們幾乎形影不離。  
+> **B**: 那一定很好玩吧！我的社區非常友善，但未必那麼親密。不過，我的家庭非常重視彼此關係。  
+> **A**: 我也是！我的父母對我們充滿愛。
 
 ---
