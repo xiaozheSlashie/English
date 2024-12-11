@@ -632,9 +632,9 @@ Examples:
 
 > skibidi? I've heard that a few times. Where's that from, do you know?
 
-**skibidi**: It refers to someone who's making a big deal about something that's not a big deal.
+**skibidi**: The meaning depends on the context. It can mean "cool" or "good," but it can also mean "bad" or "dumb." It may also refer to someone who is making a big deal out of something trivial.
 
-(形容一個人對不重要的小事小題大做。)
+(這個詞的意思取決於語境，可能表示「很酷」、「很好」，也可能表示「糟糕」或「愚蠢」。它也可以用來形容某人對不重要的事情小題大作。)
 
 2. What's the background of that? Do you know?
 
