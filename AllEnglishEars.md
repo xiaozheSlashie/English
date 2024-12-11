@@ -22,6 +22,8 @@
 
 - [Are You Close with Your Family?](#Are-You-Close-with-Your-Family)
 
+- [Where’s That From? How to Ask About an Idiom’s Origin](#Wheres-That-From-How-to-Ask-About-an-Idioms-Origin)
+
 ---
 
 # [Jump From B2 to C1 With These Phrasal Verbs](https://www.youtube.com/watch?v=GetMjyXeW6Y)
@@ -619,5 +621,55 @@ Examples:
 > **A**: 我從小住在一個非常緊密的鄰里社區，社區裡的孩子們幾乎形影不離。  
 > **B**: 那一定很好玩吧！我的社區非常友善，但未必那麼親密。不過，我的家庭非常重視彼此關係。  
 > **A**: 我也是！我的父母對我們充滿愛。
+
+---
+
+# [Where’s That From? How to Ask About an Idiom’s Origin](https://www.youtube.com/watch?v=3SiI_EqK0_o)
+
+## 本單元學習重點: **Do you know the background of all the slang and idioms that you use?**
+
+1.  where's that from? Do you know?
+
+> skibidi? I've heard that a few times. Where's that from, do you know?
+
+**skibidi**: It refers to someone who's making a big deal about something that's not a big deal.
+
+(形容一個人對不重要的小事小題大做。)
+
+2. What's the background of that? Do you know?
+
+> cheugy? I feel like I've heard that. What's the background of that?
+
+**cheugy**: It is the same as "basic," and it sort of replaced "basic."  
+( 這個詞的意思和 "basic" 相同，並逐漸取代了 "basic" 作為常用詞。)
+
+3.  Do you know the origin?
+
+-> This is the most formal of the three.
+
+> I've heard that idiom "a blessing in disguise." Do you know the origin of that?
+
+**a blessing in disguise**: This is something that seems like a bad thing but turns out to be good.  
+( 它形容某件看起來像壞事，但結果卻是好事的情況。)
+
+## Role Play
+
+> **A**: I just heard that kid say skirt that means like hold up right. Do you know the origin of that?  
+> **B**: Yes. It's supposed to mimic the sound of screeching tires.  
+> **A**: Oh~Okay. That makes sense so if someone hears something interesting they'd say skirt to express surprise and maybe get them to stop and repeat what they said.  
+> **B**: Oh! Awesome thanks. I'm always getting my wires crossed with New Slang.  
+> **A**: That's a fun idiom. By the way, getting your wires crossed what's the background of that? Do you know?  
+> **B**: No. actually but let's look it up. Oh! It looks like it originated in the 19th century and refers to accidentally connecting the wrong telephone or telegraph lines.  
+> **A**: That actually is really interesting.
+
+### 中文翻譯
+
+> **A**: 我剛聽到那個孩子說 "skirt"，意思是“等一下”，對嗎？你知道這個詞的由來嗎？  
+> **B**: 是的。它應該是模仿輪胎尖銳摩擦聲的音效。  
+> **A**: 喔~了解了。所以當有人聽到有趣的事情時，會說 "skirt" 來表達驚訝，並可能請對方停下來重複剛才說的話。  
+> **B**: 喔！太棒了，謝謝。我經常搞不清楚新的俚語用法。  
+> **A**: 那是一個有趣的成語。順便問一下，"getting your wires crossed" 是什麼背景？你知道嗎？  
+> **B**: 其實不知道，但我們查查看吧。喔！看來這個詞起源於 19 世紀，是指不小心把錯誤的電話線或電報線連接在一起。  
+> **A**: 這還真有意思。
 
 ---
