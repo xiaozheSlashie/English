@@ -24,6 +24,8 @@
 
 - [Where’s That From? How to Ask About an Idiom’s Origin](#Wheres-That-From-How-to-Ask-About-an-Idioms-Origin)
 
+- [Don't Underestimate your English](#Dont-Underestimate-your-English)
+
 ---
 
 # [Jump From B2 to C1 With These Phrasal Verbs](https://www.youtube.com/watch?v=GetMjyXeW6Y)
@@ -671,5 +673,36 @@ Examples:
 > **A**: 那是一個有趣的成語。順便問一下，"getting your wires crossed" 是什麼背景？你知道嗎？  
 > **B**: 其實不知道，但我們查查看吧。喔！看來這個詞起源於 19 世紀，是指不小心把錯誤的電話線或電報線連接在一起。  
 > **A**: 這還真有意思。
+
+---
+
+# [Don't Underestimate your English] (https://www.youtube.com/watch?v=qbMgYD0nzK8)
+
+## 本單元學習重點: **Underestimate**
+
+| 英文單字      | 中文意思 | 例句 (中文)                                    | 例句 (英文)                                                                                        |
+| ------------- | -------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| underestimate | 低估     | 我低估了她的歌唱實力。她真是個實力派。         | I underestimated her singing voice. She is a powerhouse.                                           |
+| underplay     | 淡化     | 她試圖淡化自己的負面評論，轉而關注對手的失誤。 | She tried to underplay her negative comments by drawing attention to the missteps of her opponent. |
+| undercharge   | 少收     | 她少收了我錢。我要請她調整帳單。               | She undercharged me. I'm going to tell her to adjust the bill.                                     |
+| undermine     | 削弱     | 一個政府可能會削弱民主。                       | A government could undermine democracy hypothetically.                                             |
+
+## Role Play
+
+> **A**: Oh no. I think she undercharged us for the coffee.  
+> **B**: Oh. Actually she told me she was giving us a discount because she knows our boss.  
+> **A**: Nice. I always underestimate how nice people can be.  
+> **B**: It's okay. She meant to underplay it. She didn't do it for attention.  
+> **A**: Yeah. Hey Michelle. I'm sorry I didn't mean to undermine you ealier when you were sharing your opinion about our customer service line. It really is a good idea.  
+> **B**: Oh. Thanks Lindsay. I appreciate that.
+
+### 中文翻譯
+
+> **A**: 糟糕，我覺得她咖啡少收錢了。  
+> **B**: 哦，其實她跟我說過因為認識我們老闆，所以給了我們折扣。  
+> **A**: 真棒。我總是低估人們的友善程度。  
+> **B**: 沒關係。她只是想淡化這件事，不是為了炫耀。  
+> **A**: 沒錯。嘿，Michelle，之前你分享對我們客服專線的意見時，我不是故意要打擊你。這真的是個好主意。  
+> **B**: 哦，謝謝 Lindsay。我很感激。
 
 ---
