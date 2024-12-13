@@ -709,7 +709,7 @@ Examples:
 
 ---
 
-# There You Go! One Phrase For Confirming in English(https://www.youtube.com/watch?v=mAYAZINo4g4)
+# [There You Go! One Phrase For Confirming in English](https://www.youtube.com/watch?v=mAYAZINo4g4)
 
 ## 本單元學習重點: **There you go**
 
