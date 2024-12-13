@@ -26,6 +26,8 @@
 
 - [Don’t Underestimate your English](#Dont-Underestimate-your-English)
 
+- [There You Go! One Phrase For Confirming in English](#There-You-Go-One-Phrase-For-Confirming-in-English)
+
 ---
 
 # [Jump From B2 to C1 With These Phrasal Verbs](https://www.youtube.com/watch?v=GetMjyXeW6Y)
@@ -680,12 +682,12 @@ Examples:
 
 ## 本單元學習重點: **Underestimate**
 
-| 英文單字      | 中文意思 | 例句 (中文)                                    | 例句 (英文)                                                                                        |
-| ------------- | -------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| underestimate | 低估     | 我低估了她的歌唱實力。她真是個實力派。         | I underestimated her singing voice. She is a powerhouse.                                           |
-| underplay     | 淡化     | 她試圖淡化自己的負面評論，轉而關注對手的失誤。 | She tried to underplay her negative comments by drawing attention to the missteps of her opponent. |
-| undercharge   | 少收     | 她少收了我錢。我要請她調整帳單。               | She undercharged me. I'm going to tell her to adjust the bill.                                     |
-| undermine     | 削弱     | 一個政府可能會削弱民主。                       | A government could undermine democracy hypothetically.                                             |
+| 英文單字      | 中文意思 | 例句 (中文)                                    | 例句 (英文)                                                                               |
+| ------------- | -------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| underestimate | 低估     | 我低估了她的歌唱實力。她真是個實力派歌手。     | I underestimated her singing ability. She is truly a powerhouse singer.                   |
+| underplay     | 淡化     | 她試圖淡化自己的負面評論，轉而強調對手的失誤。 | She tried to underplay her negative comments by emphasizing the missteps of her opponent. |
+| undercharge   | 少收     | 她少收了我的錢，我必須請她重新確認帳單。       | She undercharged me; I need to ask her to double-check the bill.                          |
+| undermine     | 削弱     | 一個政府的政策可能會潛在地削弱民主。           | A government's policies could potentially undermine democracy.                            |
 
 ## Role Play
 
@@ -698,11 +700,41 @@ Examples:
 
 ### 中文翻譯
 
-> **A**: 糟糕，我覺得她咖啡少收錢了。  
-> **B**: 哦，其實她跟我說過因為認識我們老闆，所以給了我們折扣。  
+> **A**: 哦不，我覺得她少收了我們咖啡的錢。  
+> **B**: 哦，其實她告訴我，她因為認識我們的老闆，所以特意給了我們折扣。  
 > **A**: 真棒。我總是低估人們的友善程度。  
-> **B**: 沒關係。她只是想淡化這件事，不是為了炫耀。  
-> **A**: 沒錯。嘿，Michelle，之前你分享對我們客服專線的意見時，我不是故意要打擊你。這真的是個好主意。  
-> **B**: 哦，謝謝 Lindsay。我很感激。
+> **B**: 沒關係。她故意低調處理，她不是為了引起注意才這麼做的。  
+> **A**: 是啊。嘿，Michelle，抱歉，我之前你在分享對我們客服的看法時，我不是故意要否定你的。那確實是一個好點子。  
+> **B**: 哦，謝謝你，Lindsay。我很感激。
+
+---
+
+# There You Go! One Phrase For Confirming in English(https://www.youtube.com/watch?v=mAYAZINo4g4)
+
+## 本單元學習重點: **There you go**
+
+- **There you go**:
+  - **用法 1**: 當你給某人某樣東西時，通常是對方剛剛請求的。
+    - **例句**: Here's the pen you needed, there you go.(你需要的筆，拿去吧。)
+  - **用法 2**: 當某人證明了你剛剛提出的觀點時。
+    - **例句**: There you go, I told you this computer doesn't run smoothly!(看吧，我就說這台電腦運行得不順暢！)
+  - **用法 3**: 表示對方做得很好或完成某事。
+    - **例句 (英文)**: There you go! You solved the problem successfully.(幹得好！你成功解決了這個問題。)
+
+## Role Play
+
+> **A**: I think some good movies will be in the theater soon.  
+> **B**: Yeah, Wicked opens next week.  
+> **A**: Well, there you go.  
+> **B**: Hey. I was at Costco and got you some of those chocolates you like.There you go.  
+> **A**: Oh, there you go being so thoughtful again.
+
+### 中文翻譯
+
+> **A**: 我想最近會有一些好電影上映。  
+> **B**: 是啊，《魔法壞女巫》下週上映。  
+> **A**: 那就對了。  
+> **B**: 嘿，我剛在 Costco 幫你買了你喜歡的巧克力。給你。  
+> **A**: 哦，你又這麼貼心了。
 
 ---
