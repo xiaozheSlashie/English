@@ -28,6 +28,8 @@
 
 - [There You Go! One Phrase For Confirming in English](#There-You-Go-One-Phrase-For-Confirming-in-English)
 
+- [How to Talk About the Aging of Music, Movies, and Trends](#How-to-Talk-About-the-Aging-of-Music-Movies-and-Trends)
+
 ---
 
 # [Jump From B2 to C1 With These Phrasal Verbs](https://www.youtube.com/watch?v=GetMjyXeW6Y)
@@ -736,5 +738,25 @@ Examples:
 > **A**: 那就對了。  
 > **B**: 嘿，我剛在 Costco 幫你買了你喜歡的巧克力。給你。  
 > **A**: 哦，你又這麼貼心了。
+
+---
+
+# [How to Talk About the Aging of Music, Movies, and Trends](https://www.youtube.com/watch?v=ciL4TXYrD8w)
+
+## Role Play
+
+> **A**: Let's watch the office.  
+> **B**: Love that show. It's a classic.  
+> **A**: Totally it stands the test of time.  
+> **B**: Yeah. Some epsiodes didn't age well but overall it's great.  
+> **A**: Agree. Everyone loves the office.
+
+### 中文翻譯
+
+> **A**: 我們來看《辦公室》吧。  
+> **B**: 超愛那部劇，真是經典。  
+> **A**: 完全同意，它經得起時間的考驗。  
+> **B**: 是啊，有些集數可能沒那麼符合現在的標準，但整體還是很棒。  
+> **A**: 同意，大家都愛《辦公室》。
 
 ---
