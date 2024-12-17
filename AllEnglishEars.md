@@ -825,7 +825,7 @@ Q: how do you usually pay for things?
 
 ## Role Play
 
-> **A**: I need to unwind should we go for some retail therapy.  
+> **A**: I need to unwind. Should we go for some retail therapy.  
 > **B**: Oh, yes. But I need to be careful I did some damage last time.  
 > **A**: Oh, did you overspend?  
 > **B**: You know it. I can be a bit indulgent when I'm stressed.  
