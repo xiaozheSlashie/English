@@ -30,6 +30,8 @@
 
 - [How to Talk About the Aging of Music, Movies, and Trends](#How-to-Talk-About-the-Aging-of-Music-Movies-and-Trends)
 
+- [Do You Doom Spend? Connect Over This Topic in English](#Do-You-Doom-Spend-Connect-Over-This-Topic-in-English)
+
 ---
 
 # [Jump From B2 to C1 With These Phrasal Verbs](https://www.youtube.com/watch?v=GetMjyXeW6Y)
@@ -758,5 +760,85 @@ Examples:
 > **A**: 完全同意，它經得起時間的考驗。  
 > **B**: 是啊，有些集數可能沒那麼符合現在的標準，但整體還是很棒。  
 > **A**: 同意，大家都愛《辦公室》。
+
+---
+
+# [Do You Doom Spend? Connect Over This Topic in English](https://www.youtube.com/watch?v=L0iqHV39ZMc)
+
+## 本單元學習重點: **doom spending**
+
+- **doom**: 是指發生某些壞事。
+
+1. **doom spending**: 目前這種行為有一些回升。聽起來像是人們對選舉感到不安，他們出門並花錢來應對情緒上的不安或黑暗感覺。
+
+> A recent survey from Credit Karma found that 27% of Americans were Doom spending in the lead up to the election with that number climbing to 37% for Gen Zers and 39% for Millennials and then it says feelings of uncertainty, anxiety, and depression are often driving forces.
+>
+> **中文解釋**：根據 Credit Karma 最近的一項調查，27% 的美國人在選舉前有「doom spending」行為，其中千禧一代（Millennials）為 39%，Z 世代（Gen Z）為 37%。這些情況通常是由不確定性、焦慮和沮喪驅動的。
+
+2. **gloom and doom**: 是指預期最壞的情況會發生。
+
+> It's kind of thinking the worst is going to happen.
+>
+> **中文解釋**：這是指對未來抱持最壞的預期。
+
+3. **doom scrolling**: 專注於社交媒體上的壞消息、危險的事情，通常是在 Instagram 或 Facebook 上。
+
+> To focus on the dangerous, the bad things in Instagram or Facebook.
+>
+> **中文解釋**：這指的是在 Instagram 或 Facebook 上專注於危險和負面的事情。
+
+4. **retail therapy**: 通過購物來療癒自己的心情或情感。
+
+> I'm up for some retail therapy now that the election is over. Let's go to the mall.
+>
+> **中文解釋**：選舉結束了，我想做一些購物療法。讓我們去商場吧。
+
+5. **overspend**: 指超出預算花費。
+
+> I overspent on Prime Day last year so I'm going to stay away from it this year.
+>
+> **中文解釋**：我去年在 Prime Day 上花費過多，所以今年我要避開。
+
+6. **impulse buy/purchase**: 衝動購物，指在情緒影響下未經計劃地購買東西。
+
+> I was in a bad mood and I saw that these jeans were on sale so I made an impulse buy.
+>
+> **中文解釋**：我心情不好，看見那條牛仔褲打折，所以我就衝動購買了。
+
+7. **compulsive shopping/shopper**: 強迫性購物/購物者，指那些有購物成癮的人。
+
+> I can be a bit of a compulsive shopper when I'm stressed.
+>
+> **中文解釋**：我在壓力大的時候有點像強迫性購物者。
+
+8. **indulgent**: 放縱自己，指為了自己喜歡的事物而過度消費。
+
+> I know it's indulgent but I bought a car.
+>
+> **中文解釋**：我知道這有點放縱，但我買了一輛車。
+
+Q: how do you usually pay for things?
+
+1. by cash
+2. by credit card/debit card
+3. by check
+
+## Role Play
+
+> **A**: I need to unwind should we go for some retail therapy.  
+> **B**: Oh, yes. But I need to be careful I did some damage last time.  
+> **A**: Oh, did you overspend?  
+> **B**: You know it. I can be a bit indulgent when I'm stressed.  
+> **A**: You see this necklace! Total impulse buy after my breakup.  
+> **B**: Oh, I get it. I'm not usually a compulsive shopper but can't help myself these days.
+
+### 中文翻譯
+
+> **A**: 我需要放鬆一下，我們去購物療法吧。  
+> **B**: 哦，好的。但我得小心，上次我花太多了。  
+> **A**: 哦，你是不是超支了？  
+> **B**: 你知道的，我壓力大的時候會有點放縱自己。  
+> **A**: 你看這條項鍊！我分手後買的，完全是衝動購物。  
+> **B**: 哦，我懂了。我通常不是強迫症購物者，但最近真的是忍不住。
 
 ---
